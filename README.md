@@ -7,7 +7,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 ## Table of Contents
 **Module 1 (Weeks 1-4): Programming Fundamentals with Javascript**
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+  * [Lecture 1: Dev Workflow](/Week_1/L1_Dev_Workflow.md)
 
 **Module 2 (Week 5): Networking and HTTP for Web Developers**
 

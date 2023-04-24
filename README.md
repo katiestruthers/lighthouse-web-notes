@@ -9,6 +9,8 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 1](/Week_1)
   * [Lecture 1: Dev Workflow](/Week_1/L1_Dev_Workflow.md)
   * [5 Rules for Defining Functions](/Week_1/5_Function_Rules.md)
+  * [Mentor Assistance: .includes](/Week_1/MA_includes.md)
+  * [DRY - Don't Repeat Yourself](/Week_1/Writing_DRY_Code.md)
 
 **Module 2 (Week 5): Networking and HTTP for Web Developers**
 

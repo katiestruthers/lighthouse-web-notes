@@ -11,6 +11,11 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [5 Rules for Defining Functions](/Week_1/5_Function_Rules.md)
   * [Mentor Assistance: .includes](/Week_1/MA_includes.md)
   * [DRY - Don't Repeat Yourself](/Week_1/Writing_DRY_Code.md)
+* [Week 2](/Week_2)
+  * [Lecture 2: Objects in JS](/Week_2/L2_Objects_in_JS.md)
+  * [Lecture 3: Callbacks](/Week_2/L3_Callbacks.md)
+  * [Mentor Assistance: Access Nested Objects](/Week_2/MA_access_nested_objects.md)
+  * [Mentor Assistance: Spread Operator](/Week_2/MA_spread_operator.md)
 
 **Module 2 (Week 5): Networking and HTTP for Web Developers**
 

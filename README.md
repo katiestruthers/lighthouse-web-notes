@@ -20,7 +20,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Lecture 4: Unit Testing](/Week_3/L4_Unit_Testing.md)
 * [Week 4](/Week_4)
   * [Lecture 5: Asynchronous Control Flow](/Week_4/L5_Async_Control_Flow.md)
-  * [Project: Lotide](../lotide/)
+  * [Project: Lotide](./lotide/)
 
 **Module 2 (Week 5): Networking and HTTP for Web Developers**
 

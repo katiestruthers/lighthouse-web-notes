@@ -18,9 +18,12 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Mentor Assistance: Spread Operator](/Week_2/MA_spread_operator.md)
 * [Week 3](/Week_3)
   * [Lecture 4: Unit Testing](/Week_3/L4_Unit_Testing.md)
+  * [Project: Lotide](https://github.com/katiestruthers/lotide)
+  * [Code Review: Improve Lotide w/ JSDoc](/Week_3/CR_lotide.md)
 * [Week 4](/Week_4)
   * [Lecture 5: Asynchronous Control Flow](/Week_4/L5_Async_Control_Flow.md)
-  * [Project: Lotide](https://github.com/katiestruthers/lotide)
+  * [Code Review: Timer](/Week_4/CR_timer.md)
+  * [Mentor Assistance: Nested Callbacks](/Week_4/MA_nested_callback_functions.md)
 
 **Module 2 (Week 5): Networking and HTTP for Web Developers**
 

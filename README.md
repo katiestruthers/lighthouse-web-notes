@@ -24,16 +24,16 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Lecture 5: Asynchronous Control Flow](/Week_4/L5_Async_Control_Flow.md)
   * [Code Review: Timer](/Week_4/CR_timer.md)
   * [Mentor Assistance: Nested Callbacks](/Week_4/MA_nested_callback_functions.md)
+
+**Module 2 (Week 5): Networking and HTTP for Web Developers**
 * [Week 5](/Week_5)
   * [Lecture 6: Networking with TCP](/Week_5/L6_Networking_with_TCP.md)
   * [Lecture 7: Promises](/Week_5/L7_Promises.md)
   * [Project: Snake Client](https://github.com/katiestruthers/snake-client)
-* [Week 6](/Week_6)
-  * [Lecture 8: Web Servers 101](/Week_6/L8_Web_Servers.md)
-
-**Module 2 (Week 5): Networking and HTTP for Web Developers**
 
 **Module 3 (Weeks 6-7): Intro to Web Server Development with Node**
+* [Week 6](/Week_6)
+  * [Lecture 8: Web Servers 101](/Week_6/L8_Web_Servers.md)
 
 **Module 4 (Weeks 8-11): Intro to Front-End Development**
 

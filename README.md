@@ -42,6 +42,8 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Project: Tinyapp](https://github.com/katiestruthers/tinyapp)
 
 **Module 4 (Weeks 8-11): Intro to Front-End Development**
+*[Week 8](/Week_8)
+  *[Lecture 11: Introduction to CSS](/Week_8/L12_CSS.md)
 
 **Module 5 (Weeks 12-13): Relational Databases and SQL**
 

@@ -34,6 +34,12 @@ This repository contains all of the notes written by [Katie](https://github.com/
 **Module 3 (Weeks 6-7): Intro to Web Server Development with Node**
 * [Week 6](/Week_6)
   * [Lecture 8: Web Servers 101](/Week_6/L8_Web_Servers.md)
+  * [Lecture 9: CRUD with Express](/Week_6/L9_CRUD_with_Express.md)
+  * [Breakout Session: Technical Interviews](/Week_6/Breakout_Tech_Interviews.md)
+* [Week 7](/Week_7)
+  * [Lecture 10: HTTP Cookies & User Authentication](/Week_7/L10_Cookies.md)
+  * [Lecture 11: Security & Real World HTTP](/Week_7/L11_Security.md)
+  * [Project: Tinyapp](https://github.com/katiestruthers/tinyapp)
 
 **Module 4 (Weeks 8-11): Intro to Front-End Development**
 

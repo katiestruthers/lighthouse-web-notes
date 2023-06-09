@@ -44,6 +44,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 **Module 4 (Weeks 8-11): Intro to Front-End Development**
 * [Week 8](/Week_8)
   * [Lecture 12: Introduction to CSS](/Week_8/L12_CSS.md)
+  * [Lecture 13: Client-Side JS](/Week_8/L13_Client_Side_JS.md)
 
 **Module 5 (Weeks 12-13): Relational Databases and SQL**
 

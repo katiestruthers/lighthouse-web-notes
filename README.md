@@ -46,6 +46,8 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Lecture 12: Introduction to CSS](/Week_8/L12_CSS.md)
   * [Lecture 13: Client-Side JS](/Week_8/L13_Client_Side_JS.md)
   * [Reference: DOM Traversal using jQuery](/Week_8/DOM_Traversal_Cheatsheet.md)
+* [Week 9](/Week_9)
+  * [Lecture 14: AJAX](/Week_9/L14_AJAX.md)
 
 **Module 5 (Weeks 12-13): Relational Databases and SQL**
 

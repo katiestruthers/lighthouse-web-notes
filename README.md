@@ -41,15 +41,21 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Lecture 11: Security & Real World HTTP](/Week_7/L11_Security.md)
   * [Project: Tinyapp](https://github.com/katiestruthers/tinyapp)
 
-**Module 4 (Weeks 8-11): Intro to Front-End Development**
+**Module 4 (Weeks 8-10): Intro to Front-End Development**
 * [Week 8](/Week_8)
   * [Lecture 12: Introduction to CSS](/Week_8/L12_CSS.md)
   * [Lecture 13: Client-Side JS](/Week_8/L13_Client_Side_JS.md)
   * [Reference: DOM Traversal using jQuery](/Week_8/DOM_Traversal_Cheatsheet.md)
 * [Week 9](/Week_9)
   * [Lecture 14: AJAX](/Week_9/L14_AJAX.md)
+  * [Mentor Assistance: document.ready](/Week_9/MA_document_ready.md)
+  * [Stretch: SASS](/Week_9/Stretch_SASS.md)
+* [Week 10](/Week_10)
+  * [Lecture 15: Responsive Design](/Week_10/L15_Responsive_Design.md)
+  * [Project: Tweeter](https://github.com/katiestruthers/tweeter)
+  * [Reference: Big O Cheatsheet](/Week_10/Reference_Big_O.md)
 
-**Module 5 (Weeks 12-13): Relational Databases and SQL**
+**Module 5 (Weeks 11-13): Relational Databases and SQL**
 
 **Module 6 (Weeks 14-15): Mid-Term Project**
 

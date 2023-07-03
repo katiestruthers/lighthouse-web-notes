@@ -56,6 +56,9 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Reference: Big O Cheatsheet](/Week_10/Reference_Big_O.md)
 
 **Module 5 (Weeks 11-13): Relational Databases and SQL**
+* [Week 11](/Week_11)
+  * [Lecture 16: Introduction to SQL](/Week_11/L16_SQL.md)
+  * [Lecture 17: Database Design](/Week_11/L17_Database_Design.md)
 
 **Module 6 (Weeks 14-15): Mid-Term Project**
 

@@ -177,6 +177,7 @@ DB_PASS=abc123
 * Add this file to .gitignore!!! (Super important!)
 
 Instead, you **can** push a .env.example file to Github, which can be populated with data.
+
 .env.example
 ```
 DB_PORT=

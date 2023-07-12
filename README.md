@@ -59,9 +59,10 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 11](/Week_11)
   * [Lecture 16: Introduction to SQL](/Week_11/L16_SQL.md)
   * [Lecture 17: Database Design](/Week_11/L17_Database_Design.md)
+  * [Code Review: Tweeter](/Week_11/CR_Tweeter.md)
 * [Week 12](/Week_12)
   * [Lecture 18: SQL for Apps](/Week_12/L18_SQL_for_Apps.md)
-  
+
 **Module 6 (Weeks 14-15): Mid-Term Project**
 
 **Module 7 (Weeks 16-19): React**

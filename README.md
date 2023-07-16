@@ -63,6 +63,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 12](/Week_12)
   * [Lecture 18: SQL for Apps](/Week_12/L18_SQL_for_Apps.md)
   * [Breakout Session: Technical Interviews, Part 2](/Week_12/Breakout_Technical_Interviews_2.md)
+  * [Programming Test: Promises Cheatsheet](/Week_12/Test_Review_Promises.md)
 
 **Module 6 (Weeks 14-15): Mid-Term Project**
 

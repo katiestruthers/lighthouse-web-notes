@@ -69,8 +69,9 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Project: LightBnB](https://github.com/katiestruthers/LightBnB)
 
 **Module 6 (Weeks 14-15): Mid-Term Project**
-* [Week 14](/Week_14)
-  * [Midterm Project Kickoff](/Week_14/Midterm_Kickoff.md)
+* [Week 14 & 15](/Week_14_15)
+  * [Midterm Project Kickoff](/Week_14_15/Midterm_Kickoff.md)
+  * [Midterm Presentation Tips](/Week_14_15/Midterm_Presentation_Tips.md)
 
 **Module 7 (Weeks 16-19): React**
 

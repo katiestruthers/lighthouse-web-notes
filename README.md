@@ -4,6 +4,14 @@
 
 This repository contains all of the notes written by [Katie](https://github.com/katiestruthers) during the [Lighthouse Labs Web Development](https://www.lighthouselabs.ca/en/web-development) program.
 
+## Project Quick Links
+* [Lotide](https://github.com/katiestruthers/lotide) - A mini clone of the JS Lodash library.
+* [Snake Client](https://github.com/katiestruthers/snake-client) - A snake game that runs in the terminal, connecting a client to a server using TCP.
+* [Tinyapp](https://github.com/katiestruthers/tinyapp) - A full stack web application built with Node and Express that allows users to shorten long URLs.
+* [Tweeter](https://github.com/katiestruthers/tweeter) - A twitter clone project, to help students gain front-end dev chops.
+* [LightBnB](https://github.com/katiestruthers/LightBnB) - A simple multi-page Airbnb clone that uses server-side JavaScript to display information from SQL queries to web pages.
+* [Midterm](https://github.com/JacquelineMG/midterm) - A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items.
+
 ## Table of Contents
 **Module 1 (Weeks 1-4): Programming Fundamentals with Javascript**
 * [Week 1](/Week_1)

@@ -83,6 +83,8 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Project: Midterm](https://github.com/JacquelineMG/midterm)
 
 **Module 7 (Weeks 16-19): React**
+* [Week 16](/Week_16)
+  * [Lecture 19: React](/Week_16/L19_React.md)
 
 **Module 8 (Weeks 20-21): Automated Testing in React**
 

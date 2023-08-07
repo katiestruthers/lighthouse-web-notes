@@ -1,4 +1,4 @@
-# JS Patterns for React: Cheatsheet
+# JS Patterns for React: Quicksheet
 
 Reference: [JavaScript: The React Parts](https://reacttraining.com/blog/javascript-the-react-parts)
 

@@ -86,6 +86,8 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 16](/Week_16)
   * [Lecture 19: React](/Week_16/L19_React.md)
   * [JS Patterns for React: Quicksheet](/Week_16/JS_React_Cheatsheet.md)
+* [Week 17](/Week_17)
+  * [Lecture 20: State Management & Immutable Update Patterns](/Week_17/L20_State_Management.md)
 
 **Module 8 (Weeks 20-21): Automated Testing in React**
 

@@ -11,6 +11,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Tweeter](https://github.com/katiestruthers/tweeter) - A twitter clone project, to help students gain front-end dev chops.
 * [LightBnB](https://github.com/katiestruthers/LightBnB) - A simple multi-page Airbnb clone that uses server-side JavaScript to display information from SQL queries to web pages.
 * [Midterm](https://github.com/JacquelineMG/midterm) - A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items.
+* [Photolabs](https://github.com/katiestruthers/photolabs-starter) - A React-based, single-page application that allows users to view photos in different contexts.
 
 ## Table of Contents
 **Module 1 (Weeks 1-4): Programming Fundamentals with Javascript**
@@ -43,7 +44,6 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 6](/Week_6)
   * [Lecture 8: Web Servers 101](/Week_6/L8_Web_Servers.md)
   * [Lecture 9: CRUD with Express](/Week_6/L9_CRUD_with_Express.md)
-  * [Breakout Session: Technical Interviews](/Week_6/Breakout_Tech_Interviews.md)
 * [Week 7](/Week_7)
   * [Lecture 10: HTTP Cookies & User Authentication](/Week_7/L10_Cookies.md)
   * [Lecture 11: Security & Real World HTTP](/Week_7/L11_Security.md)
@@ -70,7 +70,6 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Code Review: Tweeter](/Week_11/CR_Tweeter.md)
 * [Week 12](/Week_12)
   * [Lecture 18: SQL for Apps](/Week_12/L18_SQL_for_Apps.md)
-  * [Breakout Session: Technical Interviews, Part 2](/Week_12/Breakout_Technical_Interviews_2.md)
   * [Programming Test: Promises Cheatsheet](/Week_12/Test_Review_Promises.md)
 * [Week 13](/Week_13)
   * [Breakout Session: LightBnB Q&A](/Week_13/Breakout_LightBnB.md)
@@ -88,11 +87,17 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [JS Patterns for React: Quicksheet](/Week_16/JS_React_Cheatsheet.md)
 * [Week 17](/Week_17)
   * [Lecture 20: State Management & Immutable Update Patterns](/Week_17/L20_State_Management.md)
+  * [Lecture 21: React Developer Workflow](/Week_17/L21_React_Workflow.md)
 * [Week 18](/Week_18)
   * [Lecture 22: Custom Hooks](/Week_18/L22_Custom_Hooks.md)
   * [Lecture 23: Data Fetching & Other Side Effects](/Week_18/L23_Side_Effects.md)
+* [Week 19](/Week_19/)
+  * [Lecture 24: Class-Based Components](/Week_19/L24_Class_Components.md)
+  * [Project: Photolabs](https://github.com/katiestruthers/photolabs-starter)
 
 **Module 8 (Weeks 20-21): Automated Testing in React**
+* [Week 20](/Week_20/)
+  * [Lecture 25: Unit & Integration Testing](/Week_20/L25_Unit_Integration_Testing.md)
 
 **Module 9 (Weeks 22-26): Ruby on Rails**
 

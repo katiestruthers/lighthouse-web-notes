@@ -98,6 +98,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 **Module 8 (Weeks 20-21): Automated Testing in React**
 * [Week 20](/Week_20/)
   * [Lecture 25: Unit & Integration Testing](/Week_20/L25_Unit_Integration_Testing.md)
+  * [Lecture 26: E2E Testing with Cypress](/Week_20/L26_Testing_With_Cypress.md)
 
 **Module 9 (Weeks 22-26): Ruby on Rails**
 

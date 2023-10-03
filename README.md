@@ -99,7 +99,20 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Week 20](/Week_20/)
   * [Lecture 25: Unit & Integration Testing](/Week_20/L25_Unit_Integration_Testing.md)
   * [Lecture 26: E2E Testing with Cypress](/Week_20/L26_Testing_With_Cypress.md)
+  * [Code Review: Photolabs](/Week_20/CR_Photolabs.md)
+* [Week 21](/Week_21/)
+  * [Lecture 27: Advanced React Topics](/Week_21/L27_Advanced_React_Topics.md)
 
 **Module 9 (Weeks 22-26): Ruby on Rails**
+* [Week 22](/Week_22/)
+  * [Lecture 29: Intro to Ruby](/Week_22/L29_Intro_to_Ruby.md)
+  * [Breakout Session: Imposter Syndrome](/Week_22/Breakout_Imposter_Syndrome.md)
+* [Week 23](/Week_23/)
+  * [Lecture 30: Project Planning](/Week_23/L30_Project_Planning.md)
+  * [Lecture 31: Advanced Topic - Deploying Apps & CI/CD](/Week_23/L31_Advanced_Topic_App_Deployment.md)
+* [Week 24](/Week_24/)
+  * [Lecture 32: Intro to Rails](/Week_24/L32_Intro_to_Rails.md)
+  * [Lecture 33: Advanced Topic - PHP Introduction](/Week_24/L33_Advanced_Topic_PHP.md)
+* [Week 25](/Week_25/)
 
 **Module 10 (Weeks 27-30): Final Projects**

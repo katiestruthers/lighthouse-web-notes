@@ -102,6 +102,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Code Review: Photolabs](/Week_20/CR_Photolabs.md)
 * [Week 21](/Week_21/)
   * [Lecture 27: Advanced React Topics](/Week_21/L27_Advanced_React_Topics.md)
+  * [Lecture 28: Concluding React](/Week_21/L28_Concluding_React.md)
 
 **Module 9 (Weeks 22-26): Ruby on Rails**
 * [Week 22](/Week_22/)

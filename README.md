@@ -12,6 +12,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [LightBnB](https://github.com/katiestruthers/LightBnB) - A simple multi-page Airbnb clone that uses server-side JavaScript to display information from SQL queries to web pages.
 * [Midterm](https://github.com/JacquelineMG/midterm) - A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items.
 * [Photolabs](https://github.com/katiestruthers/photolabs-starter) - A React-based, single-page application that allows users to view photos in different contexts.
+* [Jungle Rails](https://github.com/katiestruthers/jungle-rails) - An e-commerce Rails app built for learning Rails through example.
 
 ## Table of Contents
 **Module 1 (Weeks 1-4): Programming Fundamentals with Javascript**
@@ -115,5 +116,10 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Lecture 32: Intro to Rails](/Week_24/L32_Intro_to_Rails.md)
   * [Lecture 33: Advanced Topic - PHP Introduction](/Week_24/L33_Advanced_Topic_PHP.md)
 * [Week 25](/Week_25/)
+  * [Lecture 34: Advanced Topic - Intro to TypeScript]()
+  * [Research & Reflect: Is Ruby on Rails Still Relevant in 2023 (and beyond)?](https://medium.com/@ktstruthers/2c647bb57970)
+* [Week 26](/Week_26)
+  * [Final Project Kickoff](/Week_26/Final_Project_Kickoff.md)
+  * [Project: Jungle Rails](https://github.com/katiestruthers/jungle-rails)
 
 **Module 10 (Weeks 27-30): Final Projects**

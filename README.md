@@ -10,9 +10,10 @@ This repository contains all of the notes written by [Katie](https://github.com/
 * [Tinyapp](https://github.com/katiestruthers/tinyapp) - A full stack web application built with Node and Express that allows users to shorten long URLs.
 * [Tweeter](https://github.com/katiestruthers/tweeter) - A twitter clone project, to help students gain front-end dev chops.
 * [LightBnB](https://github.com/katiestruthers/LightBnB) - A simple multi-page Airbnb clone that uses server-side JavaScript to display information from SQL queries to web pages.
-* [Midterm](https://github.com/JacquelineMG/midterm) - A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items.
+* [Midterm: Funsies](https://github.com/JacquelineMG/midterm) - A smart to-do list, single-page application that uses an OpenAI GPT language model to automatically categorize items.
 * [Photolabs](https://github.com/katiestruthers/photolabs-starter) - A React-based, single-page application that allows users to view photos in different contexts.
 * [Jungle Rails](https://github.com/katiestruthers/jungle-rails) - An e-commerce Rails app built for learning Rails through example.
+* [Final: Bark Mingle](https://github.com/katiestruthers/final) - A Tinder-esque style mobile app where dog owners can set-up playdates.
 
 ## Table of Contents
 **Module 1 (Weeks 1-4): Programming Fundamentals with Javascript**
@@ -76,7 +77,7 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Breakout Session: LightBnB Q&A](/Week_13/Breakout_LightBnB.md)
   * [Project: LightBnB](https://github.com/katiestruthers/LightBnB)
 
-**Module 6 (Weeks 14-15): Mid-Term Project**
+**Module 6 (Weeks 14-15): Midterm Projects**
 * [Week 14 & 15](/Week_14_15)
   * [Midterm Project Kickoff](/Week_14_15/Midterm_Kickoff.md)
   * [Midterm Presentation Tips](/Week_14_15/Midterm_Presentation_Tips.md)
@@ -123,3 +124,4 @@ This repository contains all of the notes written by [Katie](https://github.com/
   * [Project: Jungle Rails](https://github.com/katiestruthers/jungle-rails)
 
 **Module 10 (Weeks 27-30): Final Projects**
+* [Project: Bark Mingle](https://github.com/katiestruthers/final)
